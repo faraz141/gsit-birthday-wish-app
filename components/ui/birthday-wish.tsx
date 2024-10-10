@@ -112,12 +112,12 @@ export default function BirthdayWish() {
         >
           <CardHeader className="text-center">
             <CardTitle className="text-4xl font-bold text-black">
-              Happy 20th Birthday!
+              Happy Birthday!
             </CardTitle>
             <CardDescription className="text-2xl font-semibold text-gray-600">
-              Faraz Alam
+              Rimsha Arshad
             </CardDescription>
-            <p className="text-lg text-gray-500">June 13th</p>
+            <p className="text-lg text-gray-500">October 11th</p>
           </CardHeader>
           <CardContent className="space-y-6 text-center">
             <div>
